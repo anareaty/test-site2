@@ -1,7 +1,7 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: My site # Change this to your site name
+site_description: test
+site_url: https://anareaty.github.io/test-site2 # Change this to your site URL
+site_author: me
 
 theme:
     name: 'material'
