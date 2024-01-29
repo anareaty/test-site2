@@ -1,6 +1,6 @@
 site_name: My site # Change this to your site name
 site_description: test
-site_url: anareaty.github.io/test-site2 # Change this to your site URL
+site_url: https://anareaty.github.io/test-site2/ # Change this to your site URL
 site_author: me
 
 theme:
